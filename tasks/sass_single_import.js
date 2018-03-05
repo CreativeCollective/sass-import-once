@@ -1,8 +1,8 @@
 /*
  * sass-single-import
- * https://github.com/danielcress/grunt
+ * https://github.com/CreativeCollective/sass-import-once
  *
- * Copyright (c) 2018 Dan Cress
+ * Copyright (c) 2018 MultiTracks.com
  * Licensed under the MIT license.
  */
 

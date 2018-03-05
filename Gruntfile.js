@@ -1,9 +1,8 @@
 /*
  * sass-single-import
- * https://github.com/danielcress/grunt
+ * https://github.com/CreativeCollective/sass-import-once
  *
- * Copyright (c) 2018 Dan Cress
- * Licensed under the MIT license.
+ * Copyright (c) 2018 MultiTracks.com
  */
 
 'use strict';
@@ -30,11 +29,8 @@ module.exports = function(grunt) {
 
 	});
 
-	// Actually load this plugin's task(s).
 	grunt.loadTasks('tasks');
-
 	grunt.loadNpmTasks('grunt-sass');
-
 	grunt.registerTask('default', ['sass_single_import', 'sass']);
 
 };
