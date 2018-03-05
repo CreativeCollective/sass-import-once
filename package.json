@@ -1,0 +1,36 @@
+{
+  "name": "sass-single-import",
+  "description": "Enables modular usage of Sass without worrying about importing the same component multiple times.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dcress/sass-single-import",
+  "author": {
+    "name": "MutiTracks.com",
+    "email": "dan@multitracks.com",
+    "url": "www.multitracks.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CreativeCollective/sass-import-once"
+  },
+  "bugs": {
+    "url": "https://github.com/CreativeCollective/sass-import-once/issues"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10",
+    "npm": ">=1.4"
+  },
+  "dependencies": {
+    "cli-color": "1.1"
+  },
+  "devDependencies": {
+    "coveralls": "2.x",
+    "grunt": "0.4.5",
+    "grunt-sass": "^1.1.0",
+    "istanbul": "0.4",
+    "jasmine-node": "1.x"
+  }
+}
