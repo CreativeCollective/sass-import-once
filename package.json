@@ -2,7 +2,7 @@
   "name": "sass-single-import",
   "description": "Enables modular usage of Sass without worrying about importing the same component multiple times.",
   "version": "0.1.0",
-  "homepage": "https://github.com/dcress/sass-single-import",
+  "homepage": "https://github.com/CreativeCollective/sass-import-once",
   "author": {
     "name": "MutiTracks.com",
     "email": "dan@multitracks.com",
